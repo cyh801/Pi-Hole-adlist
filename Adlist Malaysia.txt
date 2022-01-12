@@ -5,3 +5,4 @@ static.adxadserv.com
 ads.exosrv.com
 ads.adxadserv.com
 a.realsrv.com
+hbo6.hboav.com
