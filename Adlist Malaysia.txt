@@ -1,2 +1,7 @@
 www.google-analytics.com
 adxadserv.com
+ad.sitemaji.com
+static.adxadserv.com
+ads.exosrv.com
+ads.adxadserv.com
+a.realsrv.com
