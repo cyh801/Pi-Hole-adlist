@@ -1,8 +1,9 @@
-www.google-analytics.com
-adxadserv.com
-ad.sitemaji.com
-static.adxadserv.com
-ads.exosrv.com
-ads.adxadserv.com
-a.realsrv.com
-hbo6.hboav.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 adxadserv.com
+0.0.0.0 ad.sitemaji.com
+0.0.0.0 static.adxadserv.com
+0.0.0.0 ads.exosrv.com
+0.0.0.0 ads.adxadserv.com
+0.0.0.0 a.realsrv.com
+0.0.0.0 hbo6.hboav.com
