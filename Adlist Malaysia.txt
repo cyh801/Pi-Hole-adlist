@@ -6,4 +6,3 @@
 0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.adxadserv.com
 0.0.0.0 a.realsrv.com
-0.0.0.0 hbo6.hboav.com
