@@ -1,4 +1,5 @@
-@@||freebitco.in^$important
+! Version: 1.0.0.0beta
+@@||freebito.in^$important
 @@||o556113.ingest.sentry.io^$important
 @@||t.appsflyer.com^$important
 @@||48c9a76693c878baa76d05aa18148d6b.clo.footprintdns.com^$important
